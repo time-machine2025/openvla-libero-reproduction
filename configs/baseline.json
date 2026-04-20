@@ -1,0 +1,6 @@
+{
+  "train_dataset": "data/train_episodes.jsonl",
+  "num_eval_episodes": 12,
+  "seed": 13,
+  "max_steps": 20
+}

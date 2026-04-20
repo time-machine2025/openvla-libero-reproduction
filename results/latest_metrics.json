@@ -1,0 +1,20 @@
+{
+  "behavior_cloning": {
+    "policy": "behavior_cloning",
+    "episodes": 6,
+    "success_rate": 1.0,
+    "avg_steps": 8.166666666666666
+  },
+  "heuristic": {
+    "policy": "heuristic",
+    "episodes": 6,
+    "success_rate": 1.0,
+    "avg_steps": 8.166666666666666
+  },
+  "random": {
+    "policy": "random",
+    "episodes": 6,
+    "success_rate": 0.0,
+    "avg_steps": 20
+  }
+}
