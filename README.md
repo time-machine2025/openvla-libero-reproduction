@@ -80,14 +80,6 @@ This repository is meant to read like a good first-stage research scaffold:
 python3 -m unittest discover -s tests -q
 ```
 
-## Why This Repository Helps For Applications
-
-It shows that you can:
-
-- build a clean experimental scaffold
-- separate data, policy, environment, and evaluation concerns
-- report results honestly instead of claiming benchmark numbers you did not run
-- leave clean extension points for plugging in real LIBERO and VLA stacks later
 
 ## Future Extensions
 
